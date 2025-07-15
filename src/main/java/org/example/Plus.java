@@ -7,5 +7,5 @@ import org.junit.platform.suite.api.Suite;
 @Suite
 @SelectPackages("org.example")
 @IncludeTags("Plus")
-public class TestSuitePlus {
+public class Plus {
 }
